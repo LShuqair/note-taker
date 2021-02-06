@@ -15,5 +15,5 @@ The app is live [note-taker](https://radiant-wave-81508.herokuapp.com/)
 
 
 ## SCREENSHOTS
-![note-taker screen shot](Screenshot.png)
+![note-taker screen shot](screenshot.png)
 
