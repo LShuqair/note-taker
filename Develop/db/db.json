@@ -1,6 +1,21 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Lunch",
+    "text": "Tuna\nchicken",
+    "id": "aeef44d9-d385-49d5-838d-fc4b79951af5"
+  },
+  {
+    "title": "Grocery-List ",
+    "text": "eggs\nmilk\n",
+    "id": "5c103040-209e-45f0-ad5a-c76c1e0a9d0f"
+  },
+  {
+    "title": "Note Title",
+    "text": "note text",
+    "id": "588f63ec-e1ea-413b-a354-533f727b573c"
+  }
 ]
