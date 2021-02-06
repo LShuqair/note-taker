@@ -1,44 +1,19 @@
-# Note-Taker.
+# note-taker
 
  ## description
-  This application will help you creat a Note and update it later.
-##  Contents
-    - [description](#description)
-    - [Installation](#Installation)
-    - [language](#language)
-    - [License](#License)
-    - [badge](#badge)
-    - [Aurthors](#Aurthors)
-    - [screenshots](#screenshots)
-    - [Github](#Github)
-    - [GithubURL](#githubURL)
-    - [Linkedin](#Linkedin)
+  This application will help you create, save a Note and update it later.
+
+
+
+## LINK TO THE REPOSITORY
+
+[note-taker](https://github.com/LShuqair/note-taker)
+
 
 ## Installation
-  the app is live
-        ## language
-  
-
-## License
-  undefined
-
-## badge
-  
+The app is live [note-taker](https://radiant-wave-81508.herokuapp.com/)
 
 
-## Aurthors
-  Luna Shuqir 
+## SCREENSHOTS
+![note-taker screen shot](Screenshot.png)
 
-
-## screenshots
-  
-
-
-## Github
-  undefined
-
-## GithubURL
-  undefined
-
-## Linkedin
-  
