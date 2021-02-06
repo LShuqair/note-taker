@@ -1,18 +1,44 @@
-# note-taker
-homework-11
+# Note-Taker.
 
-THis simple note taking application allows you to write and save notes.
+ ## description
+  This application will help you creat a Note and update it later.
+##  Contents
+    - [description](#description)
+    - [Installation](#Installation)
+    - [language](#language)
+    - [License](#License)
+    - [badge](#badge)
+    - [Aurthors](#Aurthors)
+    - [screenshots](#screenshots)
+    - [Github](#Github)
+    - [GithubURL](#githubURL)
+    - [Linkedin](#Linkedin)
+
+## Installation
+  the app is live
+        ## language
+  
+
+## License
+  undefined
+
+## badge
+  
 
 
-## LINK TO THE REPOSITORY
-
- [note-taker](https://github.com/LShuqair/Team_Profile_Generator)
-
-
-## LINK TO THE  DEPLOYED APPLICATION AT HEROKU  
- [note-taker]()
+## Aurthors
+  Zaid Alharahsheh
 
 
-## SCREENSHOTS
-![note-taker  screen shot](screenshot.png)
+## screenshots
+  
 
+
+## Github
+  undefined
+
+## GithubURL
+  undefined
+
+## Linkedin
+  

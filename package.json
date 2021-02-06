@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "homework-11",
+  "description": "Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LShuqair/note-taker.git"
+    "url": "git+https://github.com/Zaidalharahsheh/Note-Taker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LShuqair/note-taker/issues"
+    "url": "https://github.com/Zaidalharahsheh/Note-Taker/issues"
   },
-  "homepage": "https://github.com/LShuqair/note-taker#readme",
+  "homepage": "https://github.com/Zaidalharahsheh/Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "path": "^0.12.7",
     "uuid": "^8.3.2"
   }
 }
