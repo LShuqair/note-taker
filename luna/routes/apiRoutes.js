@@ -7,7 +7,7 @@ const dbJson = require("../db/db.json");
 module.exports = (app) => {
 
     app.get('/api/notes', (req,res) =>{  
-      fs.readFile("./develop/db/db.json","utf8",(err,data) => {
+      fs.readFile("./luna/db/db.json","utf8",(err,data) => {
 if (err) throw err;
 res.send(data);
 console.log(data);
@@ -23,13 +23,13 @@ console.log(data);
         text: req.body.text,
         id: uuid.v4() //add  ID 
       };
-      fs.readFile("./develop/db/db.json", "utf8", (err, data) => {
+      fs.readFile("./luna/db/db.json", "utf8", (err, data) => {
         if (err) throw err;
         let parData = JSON.parse(data);
         noteArray = parData;
         noteArray.push(newpo);
 
-        fs.writeFile("./develop/db/db.json", JSON.stringify(noteArray, null, 2), (err) => {
+        fs.writeFile("./luna/db/db.json", JSON.stringify(noteArray, null, 2), (err) => {
           if (err) throw err;
           console.log("Notes saved");
           res.json(dbJson);

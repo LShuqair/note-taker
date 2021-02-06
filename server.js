@@ -15,17 +15,17 @@ const PORT = process.env.PORT || 3000;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static('./develop/public'));
+app.use(express.static('./luna/public'));
 
 
 //app.use(express.static(__dirname + "/Develop/public"));
-require("./develop/routes/apiRoutes")(app);
-require("./develop/routes/htmlRoutes")(app);
+require("./luna/routes/apiRoutes")(app);
+require("./luna/routes/htmlRoutes")(app);
 
 
 
 // Tells node that we are creating an "express" server
-const dbJson = require("./develop/db/db.json");
+const dbJson = require("./luna/db/db.json");
 
 
 

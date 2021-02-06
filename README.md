@@ -27,7 +27,7 @@
 
 
 ## Aurthors
-  Zaid Alharahsheh
+  Luna Shuqir 
 
 
 ## screenshots
